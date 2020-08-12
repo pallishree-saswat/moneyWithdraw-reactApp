@@ -1,0 +1,45 @@
+.main-box{
+  width: 500px;
+  height: 400px;
+  background-color: rgb(126, 91, 91);
+  color: aliceblue;
+  margin-left: 500px;
+}
+
+.total{
+  width: 400px;
+  height: 250px;
+  background-color: rgb(175, 118, 80);
+  margin: auto;
+  padding: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+
+}
+.profile{
+  width:100px;
+  height:100px;
+  border-radius: 50%;
+  border: whitesmoke;
+  
+}
+
+.debit{
+  width: 400px;
+  height: 200px;
+  margin: auto;
+  padding: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.btn{
+  width: 100px;
+  height: 60px;
+  border-radius: 5%;
+  background-color: cornflowerblue;
+  color: aliceblue;
+}
